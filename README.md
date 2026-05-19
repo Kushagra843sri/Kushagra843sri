@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kushagra Srivastava</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate MERN FullStack Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushagra843sri&label=Profile%20views&color=0e75b6&style=flat" alt="kushagra843sri" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **FullStack Development** in **Wipro**.
 
-- 🌱 I’m currently learning **Machine Learning and Artifical Intelligence**
+- 🌱 I’m currently learning **Artifical Intelligence and Agentic AI**.
 
 - 👨‍💻 All of my projects are available at [https://portfolio-h99q.onrender.com](https://portfolio-h99q.onrender.com)
 
