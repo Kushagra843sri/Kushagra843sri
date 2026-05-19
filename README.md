@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-h99q.onrender.com](https://portfolio-h99q.onrender.com)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, MongoDB, Express, Java, Python, Python Libraries, Data Visualization, Data Analytics, Data Science and Machine learning**
+- 💬 Ask me about **HTML, CSS, JavaScript, MongoDB, Express, Java, Python, Python Libraries, Data Visualization, Data Analytics, Data Science and Machine learning, GenAI, Agentic AI**
 
 - 📫 How to reach me **kushagra843srivastava@gmail.com**
 
